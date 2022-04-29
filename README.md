@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi, this is coding with Vlad 👋</h1>
+<h1 align="center">Hi, this is encoding with Vladperchi 👋</h1>
 
 <p align="center">
  <a href="https://twitter.com/codewithvlad" alt="codewithvlad twitter">
